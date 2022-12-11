@@ -1,6 +1,6 @@
 {
   "name": "@arabiclib/arabiclib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Arabic Language Javascript Library",
   "main": "index.js",
   "scripts": {
