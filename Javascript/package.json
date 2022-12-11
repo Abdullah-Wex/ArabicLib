@@ -12,7 +12,7 @@
     "url": "https://github.com/Abdullah-Wex/ArabicLib"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/arabiclib"
+    "registry": "https://npm.pkg.github.com/tazerd3v"
   },
   "license": "MIT"
 }
