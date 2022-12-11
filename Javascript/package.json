@@ -1,0 +1,11 @@
+{
+  "name": "arabiclib",
+  "version": "1.0.0",
+  "description": "Arabic Language Javascript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saud Alshareef (TazerDev)",
+  "license": "MIT"
+}
