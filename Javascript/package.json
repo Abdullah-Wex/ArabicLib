@@ -7,5 +7,12 @@
     "test": "exit 0"
   },
   "author": "Saud Alshareef (TazerDev)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdullah-Wex/ArabicLib"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/arabiclib"
+  },
   "license": "MIT"
 }
